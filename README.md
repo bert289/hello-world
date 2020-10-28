@@ -1,2 +1,2 @@
 # hello-world
-Doing the Hellow World gitHub guide
+Doing the Hello World gitHub guide. 
